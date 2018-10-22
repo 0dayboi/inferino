@@ -2,8 +2,8 @@
  date_default_timezone_set("Belgrade/Serbia");
  
   $servername = "fdb13.biz.nf";
-  $username = "1764877_daata";
-  $password = "inferino123";
+  $username = "*************";
+  $password = "**********";
   $controller;
   $result;
   $sql;
