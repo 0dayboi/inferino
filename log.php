@@ -73,13 +73,6 @@ echo $dat;
       fwrite($myFile, $texdi);
       fclose($myFile);
     }
-    
-   function ConstructToTable() {
-   
-   
-   }
-    echo 'dasda' . "\r\n";
-echo "adsdad \r\n";
-     
+
 ?>
 
